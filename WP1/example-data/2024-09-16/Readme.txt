@@ -1,13 +1,13 @@
 Each folder contains:
 - Segmentation.stl file with the segmentated colon
 - a set of superficial triangular meshes with different numbers of elements 
-- a set of tethradric meshes with with different number of elements
+- a set of tethradric meshes with different number of elements
 
 The number of elements of each mesh is reported in the name of the file.
 Each folder corresponds to one patient and one CTscan series, i.e., supine. 
 
 The name of the folder corresponds to the last digits of the patient name in the TCIA CT Colonography dataset.
-Here it si a table tor etrieve the original dicom for each patient:
+Here it is a table to retrive the original dicom for each patient:
 Name_folder - Patient_ID_number - Series_Number
 
 1 - 1.3.6.1.4.1.9328.50.4.0001 - 50.4.563
